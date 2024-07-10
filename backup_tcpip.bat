@@ -1,0 +1,1 @@
+netsh int tcp show global > tcp_settings_backup.txt
